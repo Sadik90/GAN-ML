@@ -33,20 +33,14 @@ This project aims to [develop a generative based data augmentation method as a n
 
 - **Evaluation Metrics**: Model performance was evaluated using balanced and imbalanced case metrics, including accuracy, precision, sensitivity, specificity, MCC, G-mean, AUC-ROC and F1-score.
 - **Experimental Setup**: Models were trained using DC-GAN Architecture. The dataset was split into training/validation/test sets in the ratio 80:20.
-- **Results**: [Table or description of results, including performance metrics and visualizations].
-| Column 1 Header | Column 2 Header | Column 3 Header |
-|-----------------|-----------------|-----------------|
-| Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
-| Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
-
 - 
-- **Discussion**: Analysis of results revealed [insights], highlighting the strengths and weaknesses of each approach.
+- **Discussion**: Analysis of results revealed Generative based data augmentation surpasses Oversampling based approach and information based data augmentation, highlighting the strengths GAN-ML over other state of art method in ACPs prediction.
 
 ## Usage
 
 - **Installation**: To install dependencies, run `pip install -r requirements.txt`.
-- **Usage Instructions**: To train the model, run `python train.py`. For inference, use `python predict.py`.
-- **Example Code**: Below is an example code snippet for training the model:
+- **Usage Instructions**: Encode peptides, run `fea_extract.py`. generates a peptide encoding in Data Frame format.
+- **Example Code**: Below is an example code snippet for generatingh encoding:
 
 ```python
-# Insert example code here
+# from fea_extract import read_fasta,insert_AAC,insert_DPC,insert_CKSAAGP,insert_CTD,insert_PAAC,insert_AAI,insert_GTPC,insert_QSO,insert_AAE,insert_PSAAC,insert_word2int,insert_ASDC
