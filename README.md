@@ -36,7 +36,7 @@ This project aims to [develop a generative based data augmentation method as a n
 - 
 - **Discussion**: Analysis of results revealed Generative based data augmentation surpasses Oversampling based approach and information based data augmentation, highlighting the strengths GAN-ML over other state of art method in ACPs prediction.
 
-##Shapely Analysis Result
+## Shapely Analysis Result
 - **Contributing Feature Analysis : Summary Plot for the General Prediction  - Model Intrepretability
 
 - Further Experimental result will be made available upon request by researcher working in this field. Please contact me at [sadik90@jbnu.ac.kr](mailto:bhattarai.sa.dik2009@gmail.com) for inquiries.
