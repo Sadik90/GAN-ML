@@ -39,7 +39,7 @@ This project aims to [develop a generative based data augmentation method as a n
 ## Shapely Analysis Result
 - **Contributing Feature Analysis : Summary Plot for the General Prediction  - Model Intrepretability
 
-- Further Experimental result will be made available upon request by researcher working in this field. Please contact me at [sadik90@jbnu.ac.kr](mailto:bhattarai.sa.dik2009@gmail.com) for inquiries.
+- Further Experimental result will be made available upon request by researcher working in this field. Please contact me at [sadik90@jbnu.ac.kr](mailto:bhattarai.sadik2009@gmail.com) for inquiries.
 
 ## Usage
 
@@ -50,6 +50,9 @@ This project aims to [develop a generative based data augmentation method as a n
 ```python
 # from fea_extract import read_fasta,insert_AAC,insert_DPC,insert_CKSAAGP,insert_CTD,insert_PAAC,insert_AAI,insert_GTPC,insert_QSO,insert_AAE,insert_PSAAC,insert_word2int,insert_ASDC
 #This script is used to extract the feature for the peptide sequences
+
+
+
 
 
 
